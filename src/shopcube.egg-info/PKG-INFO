@@ -2,11 +2,6 @@ Metadata-Version: 2.1
 Name: shopcube
 Version: 4.5.0
 Summary: E-commerce solution
-Home-page: https://github.com/Abdur-RahmaanJ/shopcube
-Author: Abdur-Rahmaan Janhangeer & contributors
-Author-email: arj.python@gmail.com
-Project-URL: Bug Reports, https://github.com/Abdur-RahmaanJ/shopcube/issues
-Project-URL: Source, https://github.com/Abdur-RahmaanJ/shopcube/
 Keywords: flask pos management shop ecommerce cms erp e-commerce
 Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
@@ -18,7 +13,6 @@ Classifier: Programming Language :: Python :: 3.10
 Classifier: Programming Language :: Python :: 3.11
 Requires-Python: >=3.4
 Description-Content-Type: text/markdown
-License-File: LICENSE
 Requires-Dist: alembic==1.7.3
 Requires-Dist: click==8.0.1
 Requires-Dist: dnspython==2.1.0
